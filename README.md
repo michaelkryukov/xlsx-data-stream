@@ -101,3 +101,7 @@ assert convert_cell_value_to_excel_string(
 ## Mentions
 
 - This project is heavely based on [Polyconseil/xlsx_streaming](https://github.com/Polyconseil/xlsx_streaming).
+
+## License
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichaelkryukov%2Fxlsx-data-stream.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmichaelkryukov%2Fxlsx-data-stream?ref=badge_large&issueType=license)
